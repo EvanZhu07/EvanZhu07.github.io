@@ -1,0 +1,21 @@
+.title {
+	color: blue;
+	font-size: 69px;
+	background-color: red;
+	border: 20px solid lime;
+}
+body { 
+ 	background: aqua; 
+}
+.chicken{
+	color: red;
+	font-size: 30px;
+	background-color: #ff00ff;
+	border: 8px solid lime;
+}
+.link{
+	color: orange;
+	font-size: 23px;
+	background-color: red;
+	border: 10px solid #ff00ff;
+}
